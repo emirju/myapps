@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Mosh_Hamedani/.idea/Mosh_Hamedani.iml" filepath="$PROJECT_DIR$/../Mosh_Hamedani/.idea/Mosh_Hamedani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tkinter_GUI/.idea/Tkinter_GUI.iml" filepath="$PROJECT_DIR$/../Tkinter_GUI/.idea/Tkinter_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Udemy-Automation.iml" filepath="$PROJECT_DIR$/.idea/Udemy-Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject-1/.idea/pythonProject-1.iml" filepath="$PROJECT_DIR$/../pythonProject-1/.idea/pythonProject-1.iml" />
+    </modules>
+  </component>
+</project>

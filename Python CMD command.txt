@@ -1,0 +1,4 @@
+pip freeze (show command for pip)
+
+pip install paramiko
+pip install pillow

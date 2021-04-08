@@ -1,0 +1,10 @@
+router ospf 1
+ router-id 145.55.226.5
+ passive-interface default
+ no passive-interface GigabitEthernet0/0/0
+ no passive-interface GigabitEthernet0/0/1
+ network 145.55.226.5 0.0.0.0 area 300
+ network 145.55.5.160 0.0.0.15 area 300
+ network 145.55.226.40 0.0.0.3 area 300
+ default-information originate metric 50 metric-type 1 route-map TRACK_DEFAULT
+ exit

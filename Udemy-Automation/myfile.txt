@@ -1,0 +1,4 @@
+Line added with r+ 
+d on text document 
+Second line to be added on text document
+Third line to be added on text document

@@ -1,0 +1,8 @@
+____Backup for hostname R-001 and IP address : 192.168.128.129____
+ ####################################################################################################
+Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            unassigned      YES NVRAM  administratively down down    
+GigabitEthernet1/0         192.168.128.129 YES DHCP   up                    up      
+GigabitEthernet2/0         unassigned      YES NVRAM  administratively down down    
+GigabitEthernet3/0         unassigned      YES NVRAM  administratively down down    
+Loopback0                  1.1.1.1         YES NVRAM  up                    up      
