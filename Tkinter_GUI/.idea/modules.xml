@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Excel-xlsx/.idea/Excel-xlsx.iml" filepath="$PROJECT_DIR$/../Excel-xlsx/.idea/Excel-xlsx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Meraki-sdk/.idea/Meraki-sdk.iml" filepath="$PROJECT_DIR$/../Meraki-sdk/.idea/Meraki-sdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Mosh_Hamedani/.idea/Mosh_Hamedani.iml" filepath="$PROJECT_DIR$/../Mosh_Hamedani/.idea/Mosh_Hamedani.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NAPALM/.idea/NAPALM.iml" filepath="$PROJECT_DIR$/../NAPALM/.idea/NAPALM.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NETCONF-ncclient/.idea/NETCONF-ncclient.iml" filepath="$PROJECT_DIR$/../NETCONF-ncclient/.idea/NETCONF-ncclient.iml" />

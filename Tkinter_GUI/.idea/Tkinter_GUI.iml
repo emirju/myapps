@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="Requests_in_Python" />
     <orderEntry type="module" module-name="NETCONF-ncclient" />
     <orderEntry type="module" module-name="RESTCONF" />
+    <orderEntry type="module" module-name="Meraki-sdk" />
   </component>
 </module>
