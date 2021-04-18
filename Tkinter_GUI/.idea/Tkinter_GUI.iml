@@ -15,5 +15,6 @@
     <orderEntry type="module" module-name="NETCONF-ncclient" />
     <orderEntry type="module" module-name="RESTCONF" />
     <orderEntry type="module" module-name="Meraki-sdk" />
+    <orderEntry type="module" module-name="DNA_Center_SDK" />
   </component>
 </module>
